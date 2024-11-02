@@ -1,0 +1,10 @@
+candles_config: []
+config_update_interval: 10
+controllers_config:
+- matrix-falcon_0.1.yml
+- eclipse-gold_0.1.yml
+- owl-theory_0.1.yml
+- broker-owl_0.1.yml
+markets: {}
+script_file_name: v2_with_controllers.py
+time_to_cash_out: null
